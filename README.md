@@ -1,7 +1,9 @@
 <h1 align="center"> CloudBoost </h1>
 
 <p align="center">
-Curso com foco em Front-End - Codeboost.
+Estudos de Front-End - 2º projeto.
+
+
 </p>
 
 <p align="center">
@@ -29,5 +31,3 @@ O CloudBoost é um projeto que visa através da prática o aumento de produtivid
 Destaque para utilização de mixins que foram reaproveitados em várias partes do projeto.
 
 - [Acesse o projeto finalizado, online](https://quymcode.github.io/cloudboost/)
-
-Feito com ♥ by Quym
