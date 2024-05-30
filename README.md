@@ -1,1 +1,33 @@
-# cloudboost
+<h1 align="center"> CloudBoost </h1>
+
+<p align="center">
+Curso com foco em Front-End - Codeboost.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Projeto CloudBoost" src=".github/preview.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Figma
+- HTML e SASS CSS
+- Git e Github
+
+## 💻 Projeto
+
+O CloudBoost é um projeto que visa através da prática o aumento de produtividade, organização e qualidade. Essa otimização é feita com a utilização do SASS.
+Destaque para utilização de mixins que foram reaproveitados em várias partes do projeto.
+
+- [Acesse o projeto finalizado, online](https://andersonquym.github.io/cloudboost/)
+
+Feito com ♥ by Quym
