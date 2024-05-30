@@ -28,6 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O CloudBoost é um projeto que visa através da prática o aumento de produtividade, organização e qualidade. Essa otimização é feita com a utilização do SASS.
 Destaque para utilização de mixins que foram reaproveitados em várias partes do projeto.
 
-- [Acesse o projeto finalizado, online](https://andersonquym.github.io/cloudboost/)
+- [Acesse o projeto finalizado, online](https://quymcode.github.io/cloudboost/)
 
 Feito com ♥ by Quym
